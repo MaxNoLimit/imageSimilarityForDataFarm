@@ -1,0 +1,43 @@
+Similarity between same ptf images
+Similarity Score with base image of ptf1.jpg compared to ptf2.jpg:  97.76
+Similarity Score with base image of ptf1.jpg compared to ptf3.jpg:  98.03
+Similarity Score with base image of ptf1.jpg compared to ptf4.jpg:  97.61
+Similarity Score with base image of ptf1.jpg compared to ptf5.jpg:  97.9
+Similarity Score with base image of ptf1.jpg compared to ptf6.jpg:  97.88
+Similarity Score with base image of ptf1.jpg compared to ptf7.jpg:  98.0
+Similarity Score with base image of ptf1.jpg compared to ptf8.jpg:  97.72
+Similarity Score with base image of ptf1.jpg compared to ptf9.jpg:  98.24
+Similarity Score with base image of ptf1.jpg compared to ptf10.jpg:  97.95
+
+Similarity between ptf and pts images (cross)
+Similarity Score with base image of ptf1.jpg compared to pts2.jpg:  91.74
+Similarity Score with base image of ptf1.jpg compared to pts3.jpg:  91.92
+Similarity Score with base image of ptf1.jpg compared to pts4.jpg:  92.13
+Similarity Score with base image of ptf1.jpg compared to pts5.jpg:  92.54
+Similarity Score with base image of ptf1.jpg compared to pts6.jpg:  91.8
+Similarity Score with base image of ptf1.jpg compared to pts7.jpg:  91.59
+Similarity Score with base image of ptf1.jpg compared to pts8.jpg:  92.16
+Similarity Score with base image of ptf1.jpg compared to pts9.jpg:  91.97
+Similarity Score with base image of ptf1.jpg compared to pts10.jpg:  84.9
+
+Similarity between same pts images
+Similarity Score with base image of pts1.jpg compared to pts2.jpg:  99.31
+Similarity Score with base image of pts1.jpg compared to pts3.jpg:  99.68
+Similarity Score with base image of pts1.jpg compared to pts4.jpg:  99.8
+Similarity Score with base image of pts1.jpg compared to pts5.jpg:  99.35
+Similarity Score with base image of pts1.jpg compared to pts6.jpg:  99.32
+Similarity Score with base image of pts1.jpg compared to pts7.jpg:  99.76
+Similarity Score with base image of pts1.jpg compared to pts8.jpg:  99.55
+Similarity Score with base image of pts1.jpg compared to pts9.jpg:  99.0
+Similarity Score with base image of pts1.jpg compared to pts10.jpg:  91.34
+
+Similarity between pts and ptf images (cross)
+Similarity Score with base image of pts1.jpg compared to ptf2.jpg:  91.78
+Similarity Score with base image of pts1.jpg compared to ptf3.jpg:  92.58
+Similarity Score with base image of pts1.jpg compared to ptf4.jpg:  91.98
+Similarity Score with base image of pts1.jpg compared to ptf5.jpg:  92.05
+Similarity Score with base image of pts1.jpg compared to ptf6.jpg:  92.08
+Similarity Score with base image of pts1.jpg compared to ptf7.jpg:  92.6
+Similarity Score with base image of pts1.jpg compared to ptf8.jpg:  92.76
+Similarity Score with base image of pts1.jpg compared to ptf9.jpg:  92.36
+Similarity Score with base image of pts1.jpg compared to ptf10.jpg:  92.18
