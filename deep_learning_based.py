@@ -25,18 +25,18 @@ def generateScore(image1, image2):
     return score
 
 
-print("Similarity between same ptf images")
+print("\nSimilarity between same ptf images")
 for x in imageList_ptf:
-    print(f"\nSimilarity Score with base image of ptf1.jpg compared to {x}: ", round(generateScore('ptf1.jpg', x), 2), "\n")
+    print(f"Similarity Score with base image of ptf1.jpg compared to {x}: ", round(generateScore('ptf1.jpg', x), 2))
 
-print("Similarity between ptf and pts images")
+print("\nSimilarity between ptf and pts images (cross)")
 for x in imageList_pts:
-    print(f"\nSimilarity Score with base image of ptf1.jpg compared to {x}: ", round(generateScore('ptf1.jpg', x), 2), "\n")
+    print(f"Similarity Score with base image of ptf1.jpg compared to {x}: ", round(generateScore('ptf1.jpg', x), 2))
 
-print("Similarity between same pts images")
+print("\nSimilarity between same pts images")
 for x in imageList_pts:
-    print(f"\nSimilarity Score with base image of pts1.jpg compared to {x}: ", round(generateScore('pts1.jpg', x), 2), "\n")
+    print(f"Similarity Score with base image of pts1.jpg compared to {x}: ", round(generateScore('pts1.jpg', x), 2))
 
-print("Similarity between pts and ptf images")
+print("\nSimilarity between pts and ptf images (cross)")
 for x in imageList_ptf:
-    print(f"\nSimilarity Score with base image of pts1.jpg compared to {x}: ", round(generateScore('pts1.jpg', x), 2), "\n")
+    print(f"Similarity Score with base image of pts1.jpg compared to {x}: ", round(generateScore('pts1.jpg', x), 2))
